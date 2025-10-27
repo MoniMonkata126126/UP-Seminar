@@ -13,5 +13,5 @@ int main()
         number /= 10;
     }
 
-    std::cout << number;
+    std::cout << "First Digit: " << number;
 }

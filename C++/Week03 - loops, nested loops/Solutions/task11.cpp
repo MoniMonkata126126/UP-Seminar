@@ -16,5 +16,5 @@ int main()
         number /= 10;
     }
 
-    std::cout << counter;
+    std::cout << "Even digits count: " << counter;
 }
