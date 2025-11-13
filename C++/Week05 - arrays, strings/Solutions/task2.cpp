@@ -31,4 +31,6 @@ int main()
     cout << (hasTwoConsecutiveZeroes 
         ? "The array has 2 consecutive zeroes" 
         : "The array doesn't have 2 consecutive zeores");
+
+    return 0;
 }

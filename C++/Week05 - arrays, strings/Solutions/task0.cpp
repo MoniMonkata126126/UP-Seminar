@@ -36,4 +36,5 @@ int main()
     std::cout << "Max: " << arr[indexMin] << "\nMin: " << arr[indexMax] << "\n\n";
     std::cout << "Index Max: " << indexMax << "\nIndex Min: " << indexMin;
 
+    return 0;
 }
